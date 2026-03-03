@@ -1,4 +1,4 @@
-package classes;
+package src.classes;
 
 public class Furgoneta extends Vehiculo {
     private int carga = 1000;

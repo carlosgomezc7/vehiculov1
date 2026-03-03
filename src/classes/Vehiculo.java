@@ -1,4 +1,4 @@
-package classes;
+package src.classes;
 
 public class Vehiculo {
     private String matricula;

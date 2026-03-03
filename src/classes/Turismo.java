@@ -1,4 +1,4 @@
-package classes;
+package src.classes;
 
 public class Turismo extends Vehiculo {
     private int puertas = 2;
